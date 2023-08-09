@@ -27,4 +27,3 @@ Then we try to deduce the groups we take part in, using the techniques detailed 
 "time_out" = you can change the time you want to run the code, in seconds (for 10 minuets difined time_out to 600)
 
 5. press "run" . or use the commend prompt to run the code file.
-
